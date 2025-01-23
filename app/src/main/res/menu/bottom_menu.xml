@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/iletisimFragment"
+        android:icon="@drawable/icon_mail"
+        android:title="İletişim" />
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="Anasayfa" />
+    <item
+        android:id="@+id/aboutFragment"
+        android:icon="@drawable/baseline_help_24"
+        android:title="Hakkında" />
+</menu>
